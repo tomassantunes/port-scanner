@@ -1,4 +1,4 @@
-# Port Scanner in Go
+# Simple Port Scanner in Go
 
 ### Usage:
 
